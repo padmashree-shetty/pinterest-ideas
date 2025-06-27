@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p99952-e1559416.adobeaemcloud.com/bin/franklin.delivery/padmashree-shetty/pinterest/main"
+    url: "https://author-p99952-e1559416.adobeaemcloud.com//bin/franklin.delivery/padmashree-shetty/pinterest-ideas/main"
     type: "markup"
     suffix: ".html"
